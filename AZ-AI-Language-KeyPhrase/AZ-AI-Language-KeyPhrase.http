@@ -1,0 +1,6 @@
+@AZ_AI_Language_KeyPhrase_HostAddress = http://localhost:5217
+
+GET {{AZ_AI_Language_KeyPhrase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
